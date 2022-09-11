@@ -1,4 +1,7 @@
 # 第二章：使您交談輕鬆愉快的短句
+
+[![hackmd-github-sync-badge](https://hackmd.io/LWo74iOeSgW14YtAbFoLKQ/badge)](https://hackmd.io/LWo74iOeSgW14YtAbFoLKQ)
+
 ## 08 見面、分手時
 - [01 碰到友人](/@ycLiang/SkgytQ9go)
 - [02 好久不見](/@ycLiang/BJLp9Q5lj)

@@ -1,4 +1,7 @@
 # 第一章：日常生活中使用的短句
+
+[![hackmd-github-sync-badge](https://hackmd.io/d0QAwj0JSo2ZY1LBRL_cXQ/badge)](https://hackmd.io/d0QAwj0JSo2ZY1LBRL_cXQ)
+
 ## 01 在家中
 - [01 從起床到出門](/@ycLiang/H18GbZ6Jj)
 - [02 從回家到就寢](/@ycLiang/ryx55jyli)

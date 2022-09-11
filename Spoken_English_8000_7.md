@@ -1,5 +1,8 @@
 # 第七章：商業信函用語
 
+[![hackmd-github-sync-badge](https://hackmd.io/ljRG8bbSTFS-jc_bXhoH3w/badge)](https://hackmd.io/ljRG8bbSTFS-jc_bXhoH3w)
+
+
 ## 35 (商業信函用語)引言部分
 - [01 收信](/@ycLiang/H1_oi9ilo)
 - [02 回信](/@ycLiang/rJHJ35jeo)

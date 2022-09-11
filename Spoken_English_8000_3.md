@@ -1,4 +1,7 @@
 # 第三章：促進相互理解的短句
+
+[![hackmd-github-sync-badge](https://hackmd.io/iZ8bIE9PQByEFaPovTvsHg/badge)](https://hackmd.io/iZ8bIE9PQByEFaPovTvsHg)
+
 ## 12 商談
 - [01 贊成](/@ycLiang/S1_JJScej)
 - [02 反對](/@ycLiang/BynO1r5lo)

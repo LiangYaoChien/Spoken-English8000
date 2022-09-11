@@ -1,5 +1,8 @@
 # 第六章：國外旅遊時使用的短句
 
+[![hackmd-github-sync-badge](https://hackmd.io/h8Ov9UMTQyS6mgtMXmAgNg/badge)](https://hackmd.io/h8Ov9UMTQyS6mgtMXmAgNg)
+
+
 ## 29 在飛機上、飯店裏
 - [01 在飛機上](/@ycLiang/Hkpu75oei)
 - [02 在機場](/@ycLiang/Sy6lNqolj)

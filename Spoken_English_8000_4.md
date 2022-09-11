@@ -1,5 +1,8 @@
 # 第四章：表現感情的短句
 
+[![hackmd-github-sync-badge](https://hackmd.io/r4Tvl7FbSkWrK7VAb6TowQ/badge)](https://hackmd.io/r4Tvl7FbSkWrK7VAb6TowQ)
+
+
 ## 16 高興時
 - [01 欣喜](/@ycLiang/BJhlBKogi)
 - [02 放心](/@ycLiang/ByEcrFsgj)
